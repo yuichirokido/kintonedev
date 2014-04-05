@@ -1,3 +1,7 @@
+(function () {
+  
+    "use strict";
+
 kintone.events.on.('app.record.index.show', function{
 
 	//getting html element = btn
@@ -14,4 +18,5 @@ kintone.events.on.('app.record.index.show', function{
 		alert('clicked');
 	}, false);
 
-});
+	});
+})();
