@@ -1,3 +1,5 @@
+<script type="text/javascript">
+
 (function () {
   
     "use strict";
@@ -20,3 +22,5 @@ kintone.events.on.('app.record.index.show', function{
 
 	});
 })();
+
+</script>
