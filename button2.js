@@ -1,4 +1,3 @@
-<script type="text/javascript">
 
 (function () {
   
@@ -23,4 +22,3 @@ kintone.events.on.('app.record.index.show', function{
 	});
 })();
 
-</script>
