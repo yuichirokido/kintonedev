@@ -1,4 +1,4 @@
-window.onload = function{
+kintone.events.on.('app.record.index.show', function{
 
 	//getting html element = btn
 	var btn = document.getElementById('btn');
@@ -14,4 +14,4 @@ window.onload = function{
 		alert('clicked');
 	}, false);
 
-};
+});
